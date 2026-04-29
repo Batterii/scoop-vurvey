@@ -1,16 +1,16 @@
 {
-  "version": "0.15.0",
+  "version": "0.16.0",
   "description": "Terminal client for the Vurvey API",
   "homepage": "https://vurvey.com",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://storage.googleapis.com/vurvey-cli-releases/v0.15.0/vurvey_0.15.0_windows_amd64.zip",
-      "hash": "c9b697e9d7f667deced09360be835ed99599e928039e3a0f672805d25f7906bd"
+      "url": "https://storage.googleapis.com/vurvey-cli-releases/v0.16.0/vurvey_0.16.0_windows_amd64.zip",
+      "hash": "a84384dc6f77b71da2b45c57fad5febaf03bcec32008309ce06a12da1589fe52"
     },
     "arm64": {
-      "url": "https://storage.googleapis.com/vurvey-cli-releases/v0.15.0/vurvey_0.15.0_windows_arm64.zip",
-      "hash": "661d0de8cb069432455ade6ac290399d08667e304701bb626b744c6678b3cacd"
+      "url": "https://storage.googleapis.com/vurvey-cli-releases/v0.16.0/vurvey_0.16.0_windows_arm64.zip",
+      "hash": "d13c97e523f60f36836db757d2d57ea6bbe02d72118b035662a13d33800e6741"
     }
   },
   "bin": "vurvey.exe",
