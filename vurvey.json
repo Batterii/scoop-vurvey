@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://storage.googleapis.com/vurvey-cli-releases/v0.21.6/vurvey_0.21.6_windows_amd64.zip",
-      "hash": "c0f21c17ccd17e759552097a13bbe525e3637b5274f81fafb637f724f2f72582"
+      "hash": "38bfd438edb400eacc7f6238aded8d1ef7850ca40f7aee67f92f630ea2d09a41"
     },
     "arm64": {
       "url": "https://storage.googleapis.com/vurvey-cli-releases/v0.21.6/vurvey_0.21.6_windows_arm64.zip",
-      "hash": "cdd276d27e574f095e9201c8007a93a574d491f713c58c342107117a836a7c37"
+      "hash": "8de2ca19bf70e4a56cf2f9fbb7699c603c6911d588c978d005c7977803a1f1e6"
     }
   },
   "bin": "vurvey.exe",
